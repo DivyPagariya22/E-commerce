@@ -16,3 +16,17 @@ Admin has dashboard where products, category, and order are managed.
 # Home Page
 ![Home Page](home1.png)
 
+
+![Home Page](home2.png)
+
+
+
+# Cart
+
+![Cart Page](cart.png)
+
+
+#Admin Dashboard
+
+![Dashboard Page](AdminDashboard.png)
+
