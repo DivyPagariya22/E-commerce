@@ -26,7 +26,7 @@ Admin has dashboard where products, category, and order are managed.
 ![Cart Page](cart.png)
 
 
-#Admin Dashboard
+# Admin Dashboard
 
-![Dashboard Page](AdminDashboard.png)
+![Dashboard Page](AdminDasboard.png)
 
