@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+.title {
+  color: #7c795d;
+  font-family: "Trocchi", serif;
+  font-size: 45px;
+  font-weight: normal;
+  line-height: 48px;
+  margin: 0;
+}
+
+.description {
+  font-size: 26px;
+  font-weight: 300;
+  color: #ffcc66;
+  margin: 0 0 24px;
+}
+
+.title-description {
+  text-align: center;
+}
