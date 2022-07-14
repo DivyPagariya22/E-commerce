@@ -14,4 +14,5 @@ Admin has dashboard where products, category, and order are managed.
     
 
 # Home Page
+![Home Page](home1.png)
 
